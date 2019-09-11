@@ -77,8 +77,8 @@ public class DataTypesAssignment {
 		double dd = 3.5;
 		double de = 50.5;
 		double df  = 6.5;
-		double d_res = ((da * db - dc * dd)/(de - df));
-		System.out.println(d_res);
+		double d_resu = ((da * db - dc * dd)/(de - df));
+		System.out.println(d_resu);
 		
 		
 		
