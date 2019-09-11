@@ -10,10 +10,16 @@ public class DataTypes {
 		 * 
 		 */
 		
-		byte b = 120;
+		byte b = 110;
 		System.out.println(b);
+		System.out.println(b);
+		
+	System.out.println("ssssss");
+		
 
 	}
+	
+	
 
 }
 /**
